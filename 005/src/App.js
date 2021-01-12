@@ -1,9 +1,7 @@
-import Input from "Input";
+import InputSample from "./Input";
 
 function App() {
-  return (
-    
-  );
+  return <InputSample />;
 }
 
 export default App;
